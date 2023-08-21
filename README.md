@@ -1,4 +1,4 @@
-# Project Name: Customer Behavior Analysis
+#  Customer Behavior Analysis
 
 ## Introduction
 ### Problem Statement
